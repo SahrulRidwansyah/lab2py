@@ -79,4 +79,4 @@ print("Hasil Pembagian {1}+{0}=%d").format(a,b) %(a/b))
 ```
 Outputnya akan seperti ini 
 
-![gambar6s](gambar/sahrul6.png)
+![gambar6](gambar/sahrul6.png)
