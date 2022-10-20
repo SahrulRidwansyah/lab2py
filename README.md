@@ -1,6 +1,6 @@
 #lab2py
 
-# Praktikum2 Fardhilan Galang Priarto 
+# sahrul
 ## Latihan 1
 # Syntax Dasar
 Dibawah ini adalah contoh fungsi Python yang digunakan untuk mencetak. Di Python untuk mencetak cukup gunakan fungsi print("")
@@ -8,6 +8,7 @@ Dibawah ini adalah contoh fungsi Python yang digunakan untuk mencetak. Di Python
 print("Hello")
 ```
 Outputnya akan seperti ini
+
 ![gambar1](gambar/sahrul1.png)
 
 ```
@@ -30,6 +31,7 @@ print("variabel a=",a)
 print("variabel b=",b)
 ```
 Outputnya akan seperti ini
+
 ![gambar2](gambar/sahrul2.png)
 
 # Penjumlahan Nilai variabel
@@ -38,6 +40,7 @@ Dibawah ini adalah contoh penggunaan penjumlahan dari kedua variabel
 print("hasil penjumlahan a+b=",a+b)
 ```
 Maka Output nya akan seperti ini
+
 ![gambar3](gambar/sahrul3.png)
 
 ## Latihan 3
@@ -54,6 +57,7 @@ print("Variabel a=",a)
 print("Variabel b=",b)
 ```
 Outputnya akan seperti ini
+
 ![gambar4](gambar/sahrul4.png)
 
 # Penggabungan kedua variabel
@@ -62,6 +66,7 @@ Penggunaan IDLE python untuk penggabungan nilai kedua variabel dengan cara Strin
 print("Hasil Penggabungan {1}+{0}=%s".format(a,b) %(a+b))
 ```
 Outputnya akan seperti ini
+
 ![gambar5](gambar/sahrul5.png)
 
 # Konversi kedua nilai variabel
@@ -73,4 +78,5 @@ print("Hasil Penjumlahan {1}+{0}=%d").format(a,b) %(a+b))
 print("Hasil Pembagian {1}+{0}=%d").format(a,b) %(a/b))
 ```
 Outputnya akan seperti ini 
+
 ![gambar6s](gambar/sahrul6.png)
